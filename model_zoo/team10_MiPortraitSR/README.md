@@ -1,3 +1,0 @@
-1. We use both SD pre-trained model and our pre-trained model to generate the results.
-2. SD pre-trained model will be downloaded automatically. Please make sure you can connect to the huggingface.co or have set 'export HF_ENDPOINT=https://hf-mirror.com' before running the code.
-3. Our pre-trained model can be downloaded from [google drive](https://drive.google.com/drive/folders/1hQ3xqaUaDn8TwnfnecLLtqQAXwn6tZgd?usp=drive_link). Please put the model in 'model_zoo/team10_MiPortraitSR'
